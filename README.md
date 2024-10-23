@@ -69,9 +69,7 @@ Can you outwit the AI and emerge as the Pong champion with your quick reflexes a
 ## ⚙️ Installation & Setup
 
 1. **Clone the Repository:**
-   ```bash
-   git clone <your-repository-url>
-   cd pong-with-guns
+
 Install Dependencies: Ensure you have Python and Pygame installed.
 If Pygame is missing, install it with:
 
